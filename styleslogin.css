@@ -1,1 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <link href="styles.css" rel="stylesheet">
+        
+        <LINK rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
+    </head>
+    <body>
+    <header>
+        <h1>Welcome to Red Shoes store </h1>
+            
+            <figure>
+                <img src="C:/Users/alawe/Desktop/project/images/s1.webp" alt=""
+                    height="100" class="ee">
+                </figure></h1>
+            
+       
+    </header>
+    <article>
+<h2>About Us</h2>
+<p>Welcome to Red Shoes, where style meets comfort and quality!</p>
+<p>At Red Shoes, we believe that
+     footwear is more than just an
+      accessory—it’s a reflection 
+      of your personality and confidence. 
+      Our mission is to bring you the finest shoes 
+      that combine sleek designs, 
+    premium materials, and unmatched craftsmanship.</p>
+    <figure >
+        <img src="C:/Users/alawe/Desktop/project/images/s3.webp" alt=""
+        height="250"class="dd">
+        
+        </figure>
+        
+<p>Whether you're searching for casual kicks, formal footwear, or athletic options, Red Shoes has something for every occasion. We are committed to helping you 
+    look great and feel amazing, one step at a time.</p>
+<p>Thank you for making Red Shoes your go-to destination for all your footwear needs. 
+    Let’s step into the future of fashion together!</p>
+<p>At Red Shoes, we proudly feature world-renowned brands like Adidas, Nike, and more alongside our exclusive collections. Whether it’s performance, style, or comfort, 
+    we ensure you step out with confidence in every pair.</p>
+
+    
+
+    </article>
+    <aside>
+        <div class="ss">
+            <form action="shoes.html">
+                <h2>login</h2>  
+                <label for="Name"> Username</label>
+               <input type="text" name="Username" id="username">
+            <p><label for="password">Password</label>
+            <input type="password" name="password" id="password"></p>
+            <button type="submit">login</button>
+            </form>
+            </div>
+            
+    </aside>
+<footer>
+    <nav class="social-icons">
+        <p><a href="#" class="fa fa-facebook"></a></p>
+    <p> <a href="#" class="fa fa-twitter"></a></p>
+<p><a href="#" class="fa fa-snapchat"></a></p>
+<p> <a href="#" class="fa fa-youtube"></a></p>
+    </nav>
+    <P>Created by ALI ALKAHMIS AND ALI ALRABIE AND ABDULLAH ALHAMMADSS</P>
+    </P>
+    <p>@2024</p>
+    <p>DCC(DAMMAM COMMUNITY COLLAGE)</p>
+</footer>
+
+    
+    </body>
+</html>
