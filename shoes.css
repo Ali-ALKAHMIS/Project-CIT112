@@ -1,0 +1,161 @@
+
+body {
+    margin: auto;
+    background-color: #222;
+    font-family: Arial, sans-serif;
+    color: #fff; 
+}
+
+
+header {
+    background-color: #111; 
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    border-bottom: 3px solid #fff; 
+}
+
+header h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
+header figure {
+    margin: 0 auto;
+    text-align: center;
+}
+
+header figure img {
+    height: 100px; 
+}
+
+
+article {
+    padding: 2em;
+    color: #fff;
+    line-height: 1.5;
+    font-size: 1.2em;
+    background-color: #333; 
+    margin: 2% auto;
+    border-radius: 10px;
+    border: 2px solid #f5c518; 
+}
+
+article h2 {
+    text-align: center;
+    color: #f5c518; 
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+article figure {
+    text-align: center;
+    margin: 1em 0;
+}
+
+article figure img {
+    border-radius: 10px;
+    max-height: 250px;
+    width: auto;
+    border: 2px solid #f5c518;
+}
+
+
+aside {
+    background-color: #111;
+    color: #fff;
+    padding: 1.5em;
+    margin: 2% auto;
+    border-radius: 10px;
+    border: 3px solid #fff;
+    width: 50%;
+}
+
+aside h2 {
+    text-align: center;
+    color: #f5c518;
+    margin-bottom: 1em;
+}
+
+aside form {
+    text-align: center;
+}
+
+aside form label {
+    display: block;
+    margin: 0.5em 0;
+}
+
+aside form input {
+    width: 90%;
+    padding: 0.5em;
+    margin-bottom: 1em;
+    border: none;
+    border-radius: 5px;
+}
+
+aside form button {
+    padding: 0.7em 2em;
+    background-color: #f5c518; 
+    color: #111;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+aside form button:hover {
+    background-color: #fff;
+    color: #111;
+}
+
+footer {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 0;
+    border-top: 3px solid #fff;
+}
+
+footer p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+footer .social-icons p {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer .social-icons a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #fff;
+}
+
+footer .social-icons a:hover {
+    color: #f5c518; 
+}
+
+
+nav {
+    text-align: center;
+    padding: 0.5em;
+    font-size: 1.2em;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #f5c518; 
+}
+nav p{display:inline-block;
+}
+table{font-size:3.5em;}
