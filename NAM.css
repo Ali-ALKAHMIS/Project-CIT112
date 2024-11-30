@@ -39,7 +39,7 @@ article {
     background-color: #333; 
     margin: 2% auto;
     border-radius: 10px;
-    border: 2px solid #f5c518; 
+    border: 2px solid lightblue; 
 }
 footer {
     background-color: #111;
@@ -66,7 +66,7 @@ footer .social-icons a {
 }
 
 footer .social-icons a:hover {
-    color: #f5c518; 
+    color: lightblue; 
 }
 
 
@@ -83,18 +83,18 @@ nav a {
 }
 
 nav a:hover {
-    color: #f5c518; 
+    color: lightblue; 
 }
 
 nav p {
     display: inline-block;
 }
-figure img{    border: 2px solid #f5c518; 
+figure img{    border: 2px solid lightblue; 
 
 }
 select{background-color:#111;
-color:#f5c518;}
-fieldset{color: #f5c518;}
+color:lightblue}
+fieldset{color: lightblue;}
 fieldset{margin-right:70%;}
 #submit{background-color:#111;
-    color:#f5c518;}
+    color:lightblue;}
