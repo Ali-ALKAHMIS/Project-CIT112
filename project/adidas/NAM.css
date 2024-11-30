@@ -1,0 +1,100 @@
+
+body {
+    margin: auto;
+    background-color: #222;
+    font-family: Arial, sans-serif;
+    color: #fff; 
+}
+
+
+header {
+    background-color: #111; 
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    border-bottom: 3px solid #fff; 
+}
+
+header h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+    margin-bottom: 0.5em;
+}
+
+header figure {
+    margin: 0 auto;
+    text-align: center;
+}
+
+header figure img {
+    height: 100px; 
+}
+
+
+article {
+    padding: 2em;
+    color: #fff;
+    line-height: 1.5;
+    font-size: 1.2em;
+    background-color: #333; 
+    margin: 2% auto;
+    border-radius: 10px;
+    border: 2px solid lightblue; 
+}
+footer {
+    background-color: #111;
+    color: #fff;
+    text-align: center;
+    padding: 1.5em 0;
+    border-top: 3px solid #fff;
+}
+
+footer p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+footer .social-icons p {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+footer .social-icons a {
+    text-decoration: none;
+    font-size: 1.5em;
+    color: #fff;
+}
+
+footer .social-icons a:hover {
+    color: lightblue; 
+}
+
+
+nav {
+    text-align: center;
+    padding: 0.5em;
+    font-size: 1.2em;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: lightblue; 
+}
+
+nav p {
+    display: inline-block;
+}
+figure img{    border: 2px solid lightblue; 
+
+}
+select{background-color:#111;
+color:lightblue}
+fieldset{color: lightblue;}
+fieldset{margin-right:70%;}
+#submit{background-color:#111;
+    color:lightblue;}
